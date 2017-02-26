@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 def fibonacci():
+    """Create a generator for the Fibonacci Sequence"""
     # Create initial values of Fibonacci Sequence
     values = [0, 1]
 
