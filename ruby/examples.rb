@@ -17,6 +17,7 @@ t = f.take(10)
 d = t.drop(5)
 puts "Next five elements of fibonacci enumerator"
 puts "[#{d.join(', ')}]"
+puts ""
 
 # Get first five elements of the enumerator multiplied by five
 t = f.take(5)
