@@ -7,6 +7,7 @@ module Fibonacci
         , findFrom
         , get
         , toList
+        , reduce
         )
 
 {-|
@@ -17,6 +18,7 @@ module Fibonacci
 @docs findFrom
 @docs get
 @docs toList
+@docs reduce
 -}
 
 
